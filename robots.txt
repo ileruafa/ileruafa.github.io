@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ileruafa.github.io/TxI/sitemap_index.txt
+Sitemap: https://ileruafa.github.io/avM/sitemap_index.txt
+Sitemap: https://ileruafa.github.io/bZc/sitemap_index.txt
+Sitemap: https://ileruafa.github.io/jGS/sitemap_index.txt
